@@ -10,9 +10,7 @@ author_profile: true
 Reversed-polarity III-nitride Sensors for Enhanced UV-detection (ReSensE)
 ======
 
-[ReSensE](https://cordis.europa.eu/project/id/898704) is a three-year Marie Skłodowska-Curie Individual (Global) Fellowship, funded by the [European Commission](https://marie-sklodowska-curie-actions.ec.europa.eu/).
-
-The Action “ReSensE” (Reversed-polarity III-nitride Sensors for Enhanced UV-detection) aims at developing a new type of semiconductor material, and at its use for enabling more efficient sensors of ultraviolet light.
+[ReSensE](https://cordis.europa.eu/project/id/898704) is a three-year Marie Skłodowska-Curie Individual (Global) Fellowship, funded by the [European Commission](https://marie-sklodowska-curie-actions.ec.europa.eu/), which aims at developing a new type of semiconductor material, and at its use for enabling more efficient sensors of ultraviolet light.
 
 III-nitride materials such as GaN, AlN and their alloys constitute a very well-known semiconductor system, with tremendous industrial applications from energy-saving LED bulbs and lasers to the next generation of high-frequency transistors for wireless telecommunication.
 
